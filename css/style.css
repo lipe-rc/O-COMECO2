@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+html,body{
+	height: 100%;
+}
+body{
+	background-color: #00001a;
+}
+.texto{
+	width: 100%;
+	text-align: center;
+	background-color: #b3b3b3;
+}
+
+.texto > h1{
+	color:#ccffff;
+	font-size: 50px;
+	font-family: Tahoma;
+	font-weight:bold;
+	font-style:italic;
+	letter-spacing:10px;
+}
+
+.texto > p{
+	font-family:Cursive;
+	font-weight: bold;
+	font-size: 20px;
+	line-height:40px;
+}
+
+.menu{
+	width: 100%;
+	height: auto;
+	text-align: center;
+}
+
+.menu > a{
+	width: 100%;
+	height: auto;
+	padding: 125px;
+	text-decoration: none;
+	font-size: 23px;
+	color: #ffffff;
+}
+.contato{
+	width: 100%;
+	color: #ffffff;
+	margin-top: 250px;
+	text-align: center;
+}
